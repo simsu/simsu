@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&animation=twinkling" />
 <h3 align="center">👋 👀 🌱 💞️ 📫 </h3>
 <div align="center">
   
